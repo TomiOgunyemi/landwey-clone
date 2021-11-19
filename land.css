@@ -1,0 +1,149 @@
+		
+		a{
+			margin-right: 10px
+		}
+		.btn-top{
+			    margin-right: 10px;
+			    background-color: orange;
+			     color: white;
+			     padding-top: 2%;
+			     padding-bottom: 2%;
+			     border: none;
+			     box-shadow: 0px 0px 3px orange;
+			     width: 110px;
+		}
+		body{
+			font-family:Arial;
+			
+		}
+	    video{
+	     	width: 100%;
+	    }
+	 	nav{
+	 	position:fixed;
+	    width: 100%;
+	 	top:0;
+	 	background-color: white;
+	 	display: flex;
+	 	justify-content: space-around;
+	 }
+	 #video1{
+	 	min-width: 50%;
+	 	min-height:50%;
+	    position:absolute;
+	 	overflow: hidden;
+	 	z-index:-1;
+	 	
+	 }
+	   h4{
+	    font-family: sans-serif;
+	   	font-size: 70px;
+	    color: white;
+	   	margin-left: 40px;
+	 	margin-top: 110px;
+	   	margin-bottom: 0px;
+	   	border:0px;
+	   	padding-top:100px;
+	   }
+	   span{
+	   	font-size: 70px;
+	   	margin-left: 40px;
+	   	width: 80%;
+	   	border:0px;
+	   	margin-top: 0px;
+	   	margin-bottom: 15px;
+	   	font-family: sans-serif;
+	   	color: white;
+	   }
+	 .text{
+	    position: static;
+	    font-size: 50px;
+	   }
+	    #java{
+	     cursor: pointer;
+	     background-color: transparent;
+	     font-size: 17px;
+	     width:150px;
+	     height: 60px;
+	     border:1px solid white;
+	     color: white;
+	     text-align: center;
+	     margin-left: 40px;
+	     margin-top: 20px;
+	   }
+	   #java:hover{
+	   	background-color:orange;
+	   }
+
+	   .logos{
+	   	background-color: white;
+	   	width:50px;
+	    border-radius: 20px;
+	   	right: 10px;
+	   	top: 200px;
+		text-align: center;
+	   	position: fixed;
+	   	align-content: center;
+
+	 }
+	   .div1{
+	    	background-color:white;
+	    	width: 400px;
+	    	height:500px;
+	    	display: inline-block;
+	    	margin:2% 3% 0% 4%;
+
+
+	    
+	    }
+	    .div2{
+	    	background-color:white;
+	    	width: 400px;
+	    	height:500px;
+	    	display: inline-block;
+	    	margin:2% 3% 0% 2%;
+
+	    
+	    }
+	    .div3{
+	    	background-color:white;
+	    	width: 400px;
+	    	height:500px;
+	    	display: inline-block;
+	    	margin:3% 3% 0% 2%;
+	    	   
+	    }
+	  .p2{
+	  	margin-top: 20%;
+	      font-size: 35px;
+	      text-align: center;
+	     
+	 }
+	 #yes{
+	 	padding: 50px;
+	 }
+	 em{
+	 	font-size:20px;
+	 }
+	 p{
+	 	font-family: sans-serif;
+
+	 }
+	 .logos p {
+	 	background-color: orange;
+	 	width: 30px;
+	 	height: 30px;
+	 	border-radius: 30px;
+	 	margin-left:  auto;
+	 	margin-right: auto;
+	 	color: white;
+
+	 }
+
+	 .logos p i{
+	 	margin-top: 7px
+	 }
+	 .logos{
+	 	box-shadow: 0px 0px 20px rgba(0,0,0,.04)
+	 } 
+ 
